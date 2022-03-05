@@ -18,8 +18,10 @@ sudo chmod 755 clear-swap.sh
 
 ## DICAS
 
-Voce pode executar antes os comandos antes e depois pra ver o consumo de swap e memoria.
-`free -m`
+No terminal, voce pode executar antes e depois pra ver o consumo de swap e memoria.
+```
+free -m
+```
 
 
 ## EXECUÇÃO
